@@ -1,7 +1,8 @@
 # What is this?
 This is my pure pursuit controller integration for a car model. 
-It also comes with visualization publishers for Foxglove/ Rviz, so that the road taken and the desired road can be visualized. Also, the controller is written on C for better performance.
-I also have developed some tools for the race lines while creating them, you can find them in there. 
+- It comes with visualization publishers for Foxglove/ Rviz, so that the road taken and the desired road can be visualized.
+- Also, the controller is written on C for better performance.
+- I also have developed some tools in the creation and arrangement of race lines for the algorithm, you can find them in there. 
 
 
 # How do I use it?
