@@ -1,6 +1,6 @@
 # What is this?
 This is my pure pursuit controller integration for a car model. 
-It also comes with visualization publishers for Foxglove/ Rviz, so that the road taken and the desired road can be visualized.
+It also comes with visualization publishers for Foxglove/ Rviz, so that the road taken and the desired road can be visualized. Also, the controller is written on C for better performance.
 
 
 # How do I use it?
